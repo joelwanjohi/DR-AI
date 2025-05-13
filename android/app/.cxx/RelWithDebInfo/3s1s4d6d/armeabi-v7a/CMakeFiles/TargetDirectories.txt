@@ -1,0 +1,2 @@
+/disk2/Dr.Ai-main/android/app/.cxx/RelWithDebInfo/3s1s4d6d/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/disk2/Dr.Ai-main/android/app/.cxx/RelWithDebInfo/3s1s4d6d/armeabi-v7a/CMakeFiles/edit_cache.dir

@@ -1,0 +1,2 @@
+/disk2/Dr.Ai-main/android/app/.cxx/Debug/p4l1a5n6/arm64-v8a/CMakeFiles/edit_cache.dir
+/disk2/Dr.Ai-main/android/app/.cxx/Debug/p4l1a5n6/arm64-v8a/CMakeFiles/rebuild_cache.dir
