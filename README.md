@@ -186,14 +186,3 @@ Dr. AI uses various packages to provide its functionality, including but not lim
   
 For a complete list of dependencies, refer to the `pubspec.yaml` file.
 
-## License
-
-This project is licensed under the [MIT License] - see the LICENSE file for details.
-
-## Support
-
-For any inquiries or support regarding Dr. AI, you can reach out to [gcfjxvkj@gmail.com] - [mohammedhafiez.h@gmail.com].
-
----
-
-Thank you for using Dr. AI! We hope this application helps you in your medical queries and makes healthcare more accessible and convenient.
